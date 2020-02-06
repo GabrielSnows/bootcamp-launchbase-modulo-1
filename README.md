@@ -24,7 +24,7 @@
 
 - Iniciando com a programação web              - Operadores relacionais e comparativos        - Estrutura de repetição
 - Iniciando no JavaScript                      - Operadores lógicos e aritméticos             - Escopos
-- Comentários, Strings e Numbers               - Objetos                                      - Boleanos
+- Comentários, Strings e Numbers               - Objetos                                      - Booleanos
 - Fazendo cálculos com JavaScript              - Vetores                                      - Organização, padronização 
 - Condicionais                                 - Funções e métodos                              e escrita
 
