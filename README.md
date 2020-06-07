@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Primeiro módulo do Bootcamp Launchbase 🚀👨🏻‍🚀
+  Bootcamp Launchbase 🚀👨🏻‍🚀
 </h3>
 
 <blockquote align="center">“Módulo 1 - Introdução a Programação WEB”</blockquote>
